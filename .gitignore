@@ -1,0 +1,38 @@
+# General application docs 
+*.docx
+*.pptx
+*.tmp
+
+# Python specific files to ignore 
+*.ipynb_checkpoints
+__pycache__
+*.Rhistory
+*.cache
+*.virtual_documents
+
+# Ignore old folders
+old
+# homework-1-main
+# homework-2-main
+# homework-3-main
+# homework-4-main
+# homework-5-main
+# homework-6-main
+
+ homework-1-main/key
+ homework-2-main/key
+ homework-3-main/key
+ homework-4-main/key
+ homework-5-main/key
+ homework-6-main/key
+
+ group-project/key
+
+ final-exam
+final-exam/Key
+
+
+.DS_Store
+anaconda_projects
+.ipynb_checkpoints
+
