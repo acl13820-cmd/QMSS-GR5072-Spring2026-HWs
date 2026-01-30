@@ -3,7 +3,7 @@
 
 1. read __The Basics of GitHub__ section very closely
 2. complete all items on __your homework__ section (at the bottom of this page)
-3. to submit your work, `push` to this repo and place all of your HW files in the following location: homework-1-main/Submissions/LASTNAME-FIRSTNAME directory. For example, all of my HW files should be submitted in the following directory: homework-1-main/Submissions/Anderson-Nick
+3. to submit your work, make a branch using your UNI, `push` to this repo and place all of your HW files in the following location: homework-1-main/Submissions/UNI directory. For example, all of my HW files should be submitted in the following directory: homework-1-main/Submissions/rh2883
 
 # The Basics of GitHub
 
@@ -125,7 +125,7 @@ You can check out the GitHub Explore website at [github.com/explore](https://git
  
 2. `[5 pts]` Create a new branch in this repo. Name it `LASTNAME-FIRSTNAME`, this is where you will submit your HW files: 
 3. `[5 pts]` Generate the report above and place it in a folder called `/homework-1-main/Submissions/LASTNAME-FIRSTNAME`:
-    - For example, see the following directory that I created: `/homework-1-main/Submissions/Anderson-Nick`
+    - For example, see the following directory that I created: `/homework-1-main/Submissions/rh2883`
 4. `[5 pts]` Make at least three `commits`, updating your Jupyter Notebook project file. Make sure to track the History / updates made to your submission file. Generally, I suggest you `commit` your progress throughout the day, and `push` your progress at the end of each day. Please note that you will lose points for this item if you only `commit` once.
 5. `[5 pts]` Make a new script in your HW submission folder, and title it "HW 1 - Practicing Commits.py". Once the file is created, open it and write some random python code. One line of code is all you need. Commit/add this file using GitHub Desktop. Then, make two additional commits to this file. Study the commit history for this file, this will be useful in answering the next question!
 6. `[5 pts]` When you looked at your commit history on either GitHub or GitHub Desktop for the Jupyter Notebook, did the code look familiar? What about the code for the python script you made? Why did the code for Jupyter Notebook seem foreign? Please include your answer at the end of your Jupyter Notebook file.
