@@ -6,3 +6,5 @@ Created on Tue Feb  3 20:04:17 2026
 """
 
 print("This is a file for practicing commits")
+
+thing = 1 + 2
